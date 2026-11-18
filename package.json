@@ -1,0 +1,11 @@
+{
+  "name": "example-mcp-usage",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "mcp-secrets-guard": "^0.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
